@@ -57,3 +57,14 @@ typings/
 # dotenv environment variables file
 .env
 
+#application
+*.js
+!systemjs.config.js
+!systemjs-angular-loader.js
+!protractor.conf.js
+!karma.conf.js
+!karma-test-shim.js
+*.map
+typings
+.idea
+
